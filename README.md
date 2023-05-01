@@ -1,4 +1,4 @@
-App available at https://RacareanuDragosIonut.github.io
+App available at https://racareanudragosionut.github.io
 
 
 WebGL app 
